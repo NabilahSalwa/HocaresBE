@@ -7,7 +7,7 @@ Selamat datang di panduan instalasi dan penggunaan untuk backend Hocares. Backen
 
 ### Langkah 1: Unduh dan Ekstrak Proyek
 
-1. Unduh proyek Hocares Backend dari repositori GitHub [di sini](https://github.com/alvansoleh/HocaresBE).
+1. Unduh proyek Hocares Backend dari repositori GitHub [di sini](https://github.com/NabilahSalwa/HocaresBE).
 
 2. Ekstrak file yang diunduh ke dalam folder yang diinginkan pada sistem Anda.
 
