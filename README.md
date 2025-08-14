@@ -64,7 +64,7 @@ Selamat datang di panduan instalasi dan penggunaan untuk backend Hocares. Backen
 ![image](https://github.com/alvansoleh/HocaresBE/assets/134778608/53a8ebec-64fd-47b8-8c91-f9209f07611e)
 
 
-selesai untuk backend kita akan lanjut ke frontend https://github.com/alvansoleh/HocaresFE
+selesai untuk backend kita akan lanjut ke frontend https://github.com/NabilahSalwa/HocaresFE.git
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
